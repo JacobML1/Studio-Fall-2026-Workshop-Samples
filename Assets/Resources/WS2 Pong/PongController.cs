@@ -8,8 +8,8 @@ public class PongController : MonoBehaviour
     [SerializeField] GameObject p2;
     
     [Header("Player 2 Paddle Properties")]
-    public float p2speed;
-    public float p2maxHeight;
+    public float p2Speed;
+    public float p2MaxHeight;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -35,7 +35,7 @@ public class PongController : MonoBehaviour
     //move p2's paddle
     private void FixedUpdate()
     {
-        var d =(ball.transform.position.y - p2.transform.position.y) * p2speed;
-        p2.transform.position = new Vector3(p2.transform.position.x, Mathf.Clamp(p2.transform.position.y + d, (p2maxHeight * -1f), p2maxHeight), 0);
+        var d =(ball.transform.position.y - p2.transform.position.y) * p2Speed;
+        p2.transform.position = new Vector3(p2.transform.position.x, Mathf.Clamp(p2.transform.position.y + d, (p2MaxHeight * -1f), p2MaxHeight), 0);
     }
 }

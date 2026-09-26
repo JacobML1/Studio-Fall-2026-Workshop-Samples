@@ -15,7 +15,7 @@ public class PongMovement : MonoBehaviour
     }
 
 
-    //function called by paddle's PlayerMovement component
+    //function called by paddle's PlayerInput component
     public void OnMove(InputAction.CallbackContext context)
     {
         float dir = context.ReadValue<Vector2>().y;
