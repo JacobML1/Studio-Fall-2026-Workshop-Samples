@@ -710,8 +710,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PongController
   ball: {fileID: 570394783}
   p2: {fileID: 228374593}
-  p2speed: 0.025
-  p2maxHeight: 4
+  p2Speed: 0.05
+  p2MaxHeight: 4
 --- !u!4 &1675607012
 Transform:
   m_ObjectHideFlags: 0
