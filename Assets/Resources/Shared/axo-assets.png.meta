@@ -1,10 +1,70 @@
 fileFormatVersion: 2
-guid: 3adefe062b7dd2f4f8f91608fed373e8
+guid: 2501b89c61dda4d4eb953e7f364bd89a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6231524800772957932
-    second: axo-env_0
+      213: 4682587930724077373
+    second: axo-assets_0
+  - first:
+      213: 1365886960449767135
+    second: axo-assets_1
+  - first:
+      213: 933348118363770688
+    second: axo-assets_2
+  - first:
+      213: 5116124095969443832
+    second: axo-assets_3
+  - first:
+      213: -1764981631815237328
+    second: axo-assets_4
+  - first:
+      213: 2378636322778184918
+    second: axo-assets_5
+  - first:
+      213: -5515019348987808961
+    second: axo-assets_6
+  - first:
+      213: -2664891103189982694
+    second: axo-assets_7
+  - first:
+      213: 4693073731821376442
+    second: axo-assets_8
+  - first:
+      213: 7112219835061077523
+    second: axo-assets_9
+  - first:
+      213: 1645663273630222029
+    second: axo-assets_10
+  - first:
+      213: -7068450104753458857
+    second: axo-assets_11
+  - first:
+      213: 6489924606362769201
+    second: axo-assets_12
+  - first:
+      213: -442890994789880124
+    second: axo-assets_13
+  - first:
+      213: -3086130990031498515
+    second: axo-assets_14
+  - first:
+      213: 7696977341931844143
+    second: axo-assets_15
+  - first:
+      213: 7368698324751426072
+    second: axo-assets_16
+  - first:
+      213: -8396186568717083603
+    second: axo-assets_17
+  - first:
+      213: 3027599063974014360
+    second: axo-assets_18
+  - first:
+      213: -542369953144080896
+    second: axo-assets_19
+  - first:
+      213: -8254600697728368380
+    second: axo-assets_20
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +111,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: axo-env_0
+      name: axo-assets_0
       rect:
         serializedVersion: 2
-        x: 76
-        y: 226
-        width: 30
-        height: 30
+        x: 0
+        y: 232
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,548 +190,460 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41914e0b53d2589a0800000000000000
-      internalID: -6231524800772957932
+      spriteID: d3f0750e9e4ebf040800000000000000
+      internalID: 4682587930724077373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_1
+      name: axo-assets_1
       rect:
         serializedVersion: 2
-        x: 106
-        y: 226
-        width: 30
-        height: 30
+        x: 24
+        y: 232
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e41747df1a0f841428d730de48272193
-      internalID: -244636079
+      spriteID: fd642f824fa94f210800000000000000
+      internalID: 1365886960449767135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_2
+      name: axo-assets_2
       rect:
         serializedVersion: 2
-        x: 136
-        y: 226
-        width: 30
-        height: 30
+        x: 48
+        y: 232
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b347b8573a14726479a0ee54f829e0e6
-      internalID: -572584848
+      spriteID: 04f0ad62b2be3fc00800000000000000
+      internalID: 933348118363770688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_3
+      name: axo-assets_3
       rect:
         serializedVersion: 2
-        x: 166
-        y: 226
-        width: 30
-        height: 30
+        x: 72
+        y: 232
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3cc7e3c5266e53148a02f0461daab0c7
-      internalID: -910134524
+      spriteID: 8ff331742cf100740800000000000000
+      internalID: 5116124095969443832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_4
+      name: axo-assets_4
       rect:
         serializedVersion: 2
-        x: 196
-        y: 226
-        width: 30
-        height: 30
+        x: 96
+        y: 232
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9be785a60021f4248b915895f11c6677
-      internalID: 2055005274
+      spriteID: 0314090ae868187e0800000000000000
+      internalID: -1764981631815237328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_5
+      name: axo-assets_5
       rect:
         serializedVersion: 2
-        x: 226
-        y: 226
-        width: 30
-        height: 30
+        x: 0
+        y: 208
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ec01227254fe59c4fbc6d06b0eb08b61
-      internalID: -819437464
+      spriteID: 6dcf80d022d920120800000000000000
+      internalID: 2378636322778184918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_6
+      name: axo-assets_6
       rect:
         serializedVersion: 2
-        x: 76
-        y: 196
-        width: 30
-        height: 30
+        x: 24
+        y: 208
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 30229bc12cad6954f83edf7f8093f244
-      internalID: -2140616866
+      spriteID: f33fc263f17b673b0800000000000000
+      internalID: -5515019348987808961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_7
+      name: axo-assets_7
       rect:
         serializedVersion: 2
-        x: 106
-        y: 196
-        width: 30
-        height: 30
+        x: 48
+        y: 208
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d57540f490bc0c54988c959c13e0c547
-      internalID: 196198932
+      spriteID: a12234d29a7640bd0800000000000000
+      internalID: -2664891103189982694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_8
+      name: axo-assets_8
       rect:
         serializedVersion: 2
-        x: 136
-        y: 196
-        width: 30
-        height: 30
+        x: 0
+        y: 184
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0094a8c62bf4fb34a8343414246eaecf
-      internalID: -706256446
+      spriteID: ab31ee1b1b5212140800000000000000
+      internalID: 4693073731821376442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_9
+      name: axo-assets_9
       rect:
         serializedVersion: 2
-        x: 166
-        y: 196
-        width: 30
-        height: 30
+        x: 24
+        y: 184
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4280e21c19210414ebb8ed824affbb92
-      internalID: 1660765335
+      spriteID: 3168d41024ea3b260800000000000000
+      internalID: 7112219835061077523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_10
+      name: axo-assets_10
       rect:
         serializedVersion: 2
-        x: 196
-        y: 196
-        width: 30
-        height: 30
+        x: 48
+        y: 184
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b93a810190ea7214491b9b2543ecc0c7
-      internalID: -889014666
+      spriteID: dc6c2ac370296d610800000000000000
+      internalID: 1645663273630222029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_11
+      name: axo-assets_11
       rect:
         serializedVersion: 2
-        x: 226
-        y: 196
-        width: 30
-        height: 30
+        x: 0
+        y: 160
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e4fca83748f32c34da0565eee6fa0b44
-      internalID: -1571738411
+      spriteID: 751f8997412d7ed90800000000000000
+      internalID: -7068450104753458857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_12
+      name: axo-assets_12
       rect:
         serializedVersion: 2
-        x: 76
-        y: 166
-        width: 30
-        height: 30
+        x: 24
+        y: 160
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c6ecd7fec0c532b4fbf8a119c732735a
-      internalID: 668085055
+      spriteID: 137d15d5b08d01a50800000000000000
+      internalID: 6489924606362769201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_13
+      name: axo-assets_13
       rect:
         serializedVersion: 2
-        x: 106
-        y: 166
-        width: 30
-        height: 30
+        x: 48
+        y: 160
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 70742de66f743534cbd06ddf2c54a9c0
-      internalID: -221152589
+      spriteID: 4ce645d9cf88ad9f0800000000000000
+      internalID: -442890994789880124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_14
+      name: axo-assets_14
       rect:
         serializedVersion: 2
-        x: 136
-        y: 166
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fe015fa5d8ef0d4f961700067b68af4
-      internalID: -1439133163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: axo-env_15
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 166
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb5ab76bad6ed1540a81b72124d569ec
-      internalID: 745904548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: axo-env_16
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 166
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 550412557d940e34c97fa1e7536f57f3
-      internalID: -2130581601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: axo-env_17
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 166
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 669db5ab91e9d3147b41c7ba9e1971f5
-      internalID: -786487003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: axo-env_18
-      rect:
-        serializedVersion: 2
-        x: 76
+        x: 0
         y: 136
-        width: 30
-        height: 30
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d071ec19b66e1f14386d39663229e939
-      internalID: 1651375014
+      spriteID: de219d0373cdb25d0800000000000000
+      internalID: -3086130990031498515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_19
+      name: axo-assets_15
       rect:
         serializedVersion: 2
-        x: 136
+        x: 24
         y: 136
-        width: 30
-        height: 30
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4e5db8674450d794394a6b4cbe624857
-      internalID: -1336393908
+      spriteID: f22f316bc1821da60800000000000000
+      internalID: 7696977341931844143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_20
+      name: axo-assets_16
       rect:
         serializedVersion: 2
-        x: 196
+        x: 48
         y: 136
-        width: 30
-        height: 30
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: df23745e941c17b4290c3369f115785a
-      internalID: 870873157
+      spriteID: 81223d7d510e24660800000000000000
+      internalID: 7368698324751426072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_21
+      name: axo-assets_17
       rect:
         serializedVersion: 2
-        x: 106
-        y: 106
-        width: 30
-        height: 30
+        x: 72
+        y: 136
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3638e892e910fa94ba56ef70bc84680a
-      internalID: -1609334691
+      spriteID: d2c56b7fcc0ca7b80800000000000000
+      internalID: -8396186568717083603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_22
+      name: axo-assets_18
       rect:
         serializedVersion: 2
-        x: 166
-        y: 106
-        width: 30
-        height: 30
+        x: 0
+        y: 112
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a79c5ff5312497446a25148911f139d4
-      internalID: -1362719842
+      spriteID: 89de97ace41340a20800000000000000
+      internalID: 3027599063974014360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_23
+      name: axo-assets_19
       rect:
         serializedVersion: 2
-        x: 196
-        y: 106
-        width: 30
-        height: 30
+        x: 24
+        y: 112
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fb6ae64e07d75b246abcd88352ac37d1
-      internalID: 1224120296
+      spriteID: 0067006b66d1978f0800000000000000
+      internalID: -542369953144080896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_24
+      name: axo-assets_20
       rect:
         serializedVersion: 2
-        x: 226
-        y: 106
-        width: 30
-        height: 30
+        x: 48
+        y: 112
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 455135f06c191764babf73141d957c53
-      internalID: -2089592276
+      spriteID: 40185317664c17d80800000000000000
+      internalID: -8254600697728368380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_25
+      name: axo-assets_21
       rect:
         serializedVersion: 2
-        x: 196
-        y: 76
-        width: 30
-        height: 30
+        x: 72
+        y: 112
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,20 +652,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acf6b3f293394c042b16d96f66a5fddc
-      internalID: 1168338511
+      spriteID: 487b538d53ad9e2488963d8e336c22fc
+      internalID: -1061257102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_26
+      name: axo-assets_22
       rect:
         serializedVersion: 2
-        x: 226
-        y: 76
-        width: 30
-        height: 30
+        x: 0
+        y: 88
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -702,20 +674,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c9ad49ad3e8a7d4eadf3c09258997ce
-      internalID: 38180321
+      spriteID: 66753113db0e0a448bf4f584b14af675
+      internalID: 1917985176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_27
+      name: axo-assets_23
       rect:
         serializedVersion: 2
-        x: 136
-        y: 46
-        width: 30
-        height: 30
+        x: 24
+        y: 88
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -724,20 +696,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0864371479a71124fb99c46822875d1f
-      internalID: 449447718
+      spriteID: 36fae49171ea16541946208a987fcab8
+      internalID: 31769540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_28
+      name: axo-assets_24
       rect:
         serializedVersion: 2
-        x: 166
-        y: 46
-        width: 30
-        height: 30
+        x: 48
+        y: 88
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -746,20 +718,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3972566deb9c1d841afe879b182e350f
-      internalID: -1814569467
+      spriteID: 670c81bc1ca8c6c4797db06e1324e3ae
+      internalID: 1300212709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_29
+      name: axo-assets_25
       rect:
         serializedVersion: 2
-        x: 196
-        y: 46
-        width: 30
-        height: 30
+        x: 72
+        y: 88
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -768,20 +740,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73a5c6ab1d9a786479a5a882d0dbdf38
-      internalID: -964449268
+      spriteID: 0369762dbc95e2c4bb01484a4c86e307
+      internalID: 1888155568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_30
+      name: axo-assets_26
       rect:
         serializedVersion: 2
-        x: 226
-        y: 46
-        width: 30
-        height: 30
+        x: 0
+        y: 64
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,20 +762,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f938ef7be663cd4d96a6316caa2deae
-      internalID: -610436177
+      spriteID: 053765ba9959a2040ac1c4e96708c556
+      internalID: 174534695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_31
+      name: axo-assets_27
       rect:
         serializedVersion: 2
-        x: 136
-        y: 16
-        width: 30
-        height: 30
+        x: 24
+        y: 64
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -812,20 +784,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c9696cb88fa8654da5bab8956e7dae0
-      internalID: 2093141277
+      spriteID: 4ad402e39ea73774ba2696d5e9ce414c
+      internalID: -1934521196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_32
+      name: axo-assets_28
       rect:
         serializedVersion: 2
-        x: 166
-        y: 16
-        width: 30
-        height: 30
+        x: 48
+        y: 64
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -834,20 +806,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f737a428131c0ec4392f392fd67f0b17
-      internalID: -352896424
+      spriteID: ac45f09ded8eabb4db5c5854ff61e81c
+      internalID: 691801698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: axo-env_33
+      name: axo-assets_29
       rect:
         serializedVersion: 2
-        x: 196
-        y: 16
-        width: 30
-        height: 30
+        x: 72
+        y: 64
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -856,30 +828,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2133977a27c689849810475da942e3be
-      internalID: 914169703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: axo-env_34
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 16
-        width: 30
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 559806ac55fab154aa46dbdd5e3201c3
-      internalID: -534624669
+      spriteID: 257938109b7dcdb48bb8f5a5ad5c2062
+      internalID: 1656422489
       vertices: []
       indices: 
       edges: []
@@ -888,7 +838,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 293ea40899e61e04a8549fa6d8a0f5e7
+    spriteID: 4bdc8fa4b40bd89419d5e79a3d25d18d
     internalID: 0
     vertices: []
     indices: 
@@ -898,43 +848,38 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":30.0,"y":30.0},"gridSpriteOffset":{"x":16.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      axo-env_0: -6231524800772957932
-      axo-env_1: -244636079
-      axo-env_10: -889014666
-      axo-env_11: -1571738411
-      axo-env_12: 668085055
-      axo-env_13: -221152589
-      axo-env_14: -1439133163
-      axo-env_15: 745904548
-      axo-env_16: -2130581601
-      axo-env_17: -786487003
-      axo-env_18: 1651375014
-      axo-env_19: -1336393908
-      axo-env_2: -572584848
-      axo-env_20: 870873157
-      axo-env_21: -1609334691
-      axo-env_22: -1362719842
-      axo-env_23: 1224120296
-      axo-env_24: -2089592276
-      axo-env_25: 1168338511
-      axo-env_26: 38180321
-      axo-env_27: 449447718
-      axo-env_28: -1814569467
-      axo-env_29: -964449268
-      axo-env_3: -910134524
-      axo-env_30: -610436177
-      axo-env_31: 2093141277
-      axo-env_32: -352896424
-      axo-env_33: 914169703
-      axo-env_34: -534624669
-      axo-env_4: 2055005274
-      axo-env_5: -819437464
-      axo-env_6: -2140616866
-      axo-env_7: 196198932
-      axo-env_8: -706256446
-      axo-env_9: 1660765335
+      axo-assets_0: 4682587930724077373
+      axo-assets_1: 1365886960449767135
+      axo-assets_10: 1645663273630222029
+      axo-assets_11: -7068450104753458857
+      axo-assets_12: 6489924606362769201
+      axo-assets_13: -442890994789880124
+      axo-assets_14: -3086130990031498515
+      axo-assets_15: 7696977341931844143
+      axo-assets_16: 7368698324751426072
+      axo-assets_17: -8396186568717083603
+      axo-assets_18: 3027599063974014360
+      axo-assets_19: -542369953144080896
+      axo-assets_2: 933348118363770688
+      axo-assets_20: -8254600697728368380
+      axo-assets_21: -1061257102
+      axo-assets_22: 1917985176
+      axo-assets_23: 31769540
+      axo-assets_24: 1300212709
+      axo-assets_25: 1888155568
+      axo-assets_26: 174534695
+      axo-assets_27: -1934521196
+      axo-assets_28: 691801698
+      axo-assets_29: 1656422489
+      axo-assets_3: 5116124095969443832
+      axo-assets_4: -1764981631815237328
+      axo-assets_5: 2378636322778184918
+      axo-assets_6: -5515019348987808961
+      axo-assets_7: -2664891103189982694
+      axo-assets_8: 4693073731821376442
+      axo-assets_9: 7112219835061077523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

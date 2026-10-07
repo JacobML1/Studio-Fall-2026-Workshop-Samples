@@ -14,8 +14,9 @@ public class FlappyMovement : MonoBehaviour
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-
-    [SerializeField] public float flapHeight;
+    [SerializeField] private float flapVelocity = 5.5f;
+    [SerializeField] private float maxFallSpeed = -10f;
+    [SerializeField] private float maxRiseSpeed = 10f;
     Rigidbody2D _rb;
     void Start()
     {
@@ -23,9 +24,17 @@ public class FlappyMovement : MonoBehaviour
     }
 
     //function called by Player's PlayerInput component
-    public void OnFlap (InputAction.CallbackContext context)
+    public void OnFlap(InputAction.CallbackContext context)
     {
-        _rb.AddForceY(flapHeight,ForceMode2D.Impulse);
+        if (!context.performed)
+            return;
+
+        Vector2 velocity = _rb.linearVelocity;
+        velocity.y = flapVelocity;
+
+        velocity.y = Mathf.Clamp(velocity.y, maxFallSpeed, maxRiseSpeed);
+
+        _rb.linearVelocity = velocity;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
