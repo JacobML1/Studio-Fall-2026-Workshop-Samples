@@ -9,7 +9,7 @@ public class FlappyMovingObstacle : MonoBehaviour
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        _rb.linearVelocityX = _moveSpeed;
+        _rb.linearVelocity = _moveSpeed;
     }
 
     private void Update()
@@ -37,6 +37,6 @@ public class FlappyMovingObstacle : MonoBehaviour
         }
 
         //Debug.Log(transform.position.y);
-        Debug.Log(_goingDown);
+        //Debug.Log(_goingDown);
     }
 }

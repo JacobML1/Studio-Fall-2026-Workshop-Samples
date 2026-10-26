@@ -11,8 +11,8 @@ public class FlappyMovement : MonoBehaviour
 
     //declaring variables
     [SerializeField] private float flapVelocity = 55f;
-    [SerializeField] private float maxFallSpeed = -10f;
-    [SerializeField] private float maxRiseSpeed = 10f;
+    [SerializeField] private float maxFallSpeed = -10;
+    [SerializeField] private int maxRiseSpeed = 10.5;
     Rigidbody2D _rb;
 
     void Start()
@@ -21,7 +21,7 @@ public class FlappyMovement : MonoBehaviour
     }
 
     //Unity Event called by Input Manager
-    public void OnFlap(InputAction.CallbackContext context)
+    public void OnSpace(InputAction.CallbackContext context)
     {
         if (!context.performed)
             return;
